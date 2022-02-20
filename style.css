@@ -1,0 +1,45 @@
+body { 
+  background: #32383E;
+}
+  
+.clock {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 7px;
+  }
+  
+.text1 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 70px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 7px;
+  }
+  
+.text2 {
+  position: relative;
+  text-align: center;
+  color: #e98208;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 7px;
+  margin-right: 100px;
+  margin-left: 100px;
+  }
+
+.clock-png{
+  margin: 50px 0 0 700px;
+  }
+
+.kodluyoruz{
+  margin: 25px 0 0 800px;
+}
+
+
+
+
+  
